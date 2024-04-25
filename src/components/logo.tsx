@@ -2,13 +2,7 @@ import { cn } from "@/lib/utils";
 import React from "react";
 
 type LogoVariant = "default" | "small" | "small-outline";
-type LogoColor =
-	| "background"
-	| "foreground"
-	| "aqua"
-	| "purple"
-	| "green"
-	| "orange";
+type LogoColor = "background" | "foreground";
 
 interface LogoProps {
 	color: LogoColor;
