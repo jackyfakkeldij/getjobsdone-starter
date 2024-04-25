@@ -5,7 +5,7 @@ export default async function Page() {
 		<main className="flex min-h-screen flex-col items-center justify-between p-8">
 			<div className="w-full max-w-md">
 				<Logo variant="small" color="foreground" />
-				<h1 className="text-2xl font-bold mb-2">Hey topper! 👋🏼</h1>
+				<h1 className="text-2xl font-bold mb-2">Opdracht</h1>
 				<p className="text-md mb-3">
 					Leuk dat je interesse hebt om het development team van{" "}
 					<a
