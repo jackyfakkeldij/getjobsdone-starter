@@ -4,7 +4,7 @@ Dit project wordt gebruikt om een beter beeld te geven van de skills en werkwijz
 
 ## Technieken
 
--   Framework: [https://nextjs.org/docs](Next JS App router)
+-   Framework: [https://nextjs.org/docs](NextJS)
 -   UI: [https://ui.shadcn.com/](ShadCN)
 -   Styling: [https://tailwindcss.com/](Tailwind)
 
